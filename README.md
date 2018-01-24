@@ -8,5 +8,4 @@ A Java Core Application to check the status of URLs (HTTP/HTTPS)-link checker wi
 
 
 
-*Source: Oracle Java Tutorials*
 
